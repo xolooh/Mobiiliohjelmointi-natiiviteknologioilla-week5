@@ -30,9 +30,6 @@ class MainActivity : ComponentActivity() {
     }
 
 
-@Composable
-fun MainCalorieScreen() {
-}
 
 @Preview(showBackground = true)
 @Composable
